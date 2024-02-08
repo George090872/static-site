@@ -1,0 +1,5 @@
+# Ignore .idea folder
+.idea/
+
+# Ignore secret-passwords.txt file
+secret-passwords.txt
